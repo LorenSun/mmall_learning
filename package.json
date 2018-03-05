@@ -1,0 +1,22 @@
+{
+  "name": "mmall",
+  "version": "1.0.0",
+  "description": "mmall前端代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LorenSun/mmall_learning.git"
+  },
+  "author": "loren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LorenSun/mmall_learning/issues"
+  },
+  "homepage": "https://github.com/LorenSun/mmall_learning#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
